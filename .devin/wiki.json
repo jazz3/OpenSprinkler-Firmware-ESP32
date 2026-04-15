@@ -1,0 +1,7 @@
+{
+  "repo_notes": [
+    {
+      "content": "The repository contains three main areas: the frontend/ folder with React components, the backend/ folder with API services, and the infra/ folder with deployment scripts. Documentation should emphasize how these parts interact and highlight the backend API layer as the highest priority."
+    }
+  ]
+}
